@@ -28,8 +28,6 @@ Let’s connect and build something cool together!<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=KurmadasuPranav7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KurmadasuPranav7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Competitive Coding
-[My Codefolio Portfolio](https://codolio.com/profile/iamkp)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
